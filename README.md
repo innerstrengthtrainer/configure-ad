@@ -6,7 +6,7 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Full Video Demonstration</h2>
 
 - ### [How to Deploy on-premises Active Directory within Azure Compute](https://www.flexclip.com/share/18365978708cebdd84a8d073f8908636ffb4982.html)
 
@@ -30,7 +30,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Join Client VM with Domain Control VM in Azure via DNS
 - Set up remote desktop access for non-admins on Client VM
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Abbreviated Deployment and Configuration Steps</h2>
 
 <p>
 <img src="https://user-images.githubusercontent.com/47663923/209571749-426ae6fe-5599-4c5a-8d3a-45fdfd44dde0.png" height="80%" width="80%" alt="Create VMs"/>
